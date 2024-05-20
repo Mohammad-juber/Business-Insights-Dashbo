@@ -1,20 +1,20 @@
 # Hospitality Domain
 [Go to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U0ODg4MzItMTgzNy00MWQ3LWJhOWUtNGQ5MDJhNDhmZTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that threatened its market share. As an aspiring Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
+In the evolution of luxury hotels, AtliQ Grands faced revenue challenges that declined its market share. As an aspiring Data Analyst, I get started on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
 
 Here's a quick glimpse of some noteworthy facts about AtliQ Grands:
 
 ➡️AtliQ Grands proudly stands as a five-star hotel chain with a presence in four bustling cities.
 
-➡️Across these urban hubs, AtliQ Grands boasts a network of seven distinct properties, strategically situated to cater to diverse clientele.
+➡️Across these urban hubs, AtliQ Grands boasts a network of seven distinct properties, strategically situated to cater to diverse client.
 
-➡️Within these upscale properties, guests are offered a choice of four room categories: Elite, Premium, Presidential, and Standard, ensuring a tailored experience for every visitor.
+➡️Within these upscale properties, guests are offered a choice of four room categories: Elite, Premium, Presidential, and Standard, ensuring a great experience for every visitor.
 
 ➡️To enhance guest convenience, AtliQ Grands offers reservations through six prominent booking platforms, optimizing accessibility and ease of booking.
 
 **Project Scope:**
-My mission was clear - to harness the power of data and provide insights that would pave the way for smarter decision-making at AtliQ Grands. To achieve this, we leveraged several datasets:
+My mission was clear - to utilize the power of data and provide insights that would pave the way for smarter decision-making at AtliQ Grands. To achieve this, we leveraged several datasets:
 
 **dim_date** - This table contains date-related information, such as dates, week numbers, and day types (weekend and weekday). We utilized this data to analyze booking trends over time.
 
@@ -22,7 +22,7 @@ My mission was clear - to harness the power of data and provide insights that wo
 
 **dim_rooms** - This table included information about room IDs and room classes. We used this data to analyze which types of rooms were more popular or profitable.
 
-**fact_aggregated_bookings** - This fact table contained data related to property ID, check-in dates, room categories, successful bookings, and capacity. It served as a crucial source for calculating key metrics related to bookings and occupancy.
+**fact_aggregated_bookings** - This fact table contained data related to property ID, check-in dates, room categories, successful bookings, and capacity. It served as a major source for calculating key metrics related to bookings and occupancy.
 
 **Key Revelations:**
 
