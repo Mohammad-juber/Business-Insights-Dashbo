@@ -53,3 +53,16 @@ AtliQ Exotica's stellar performance highlights the potential for replication acr
 In conclusion, data intelligence has unlocked a world of possibilities for AtliQ Grands. By leveraging these insights, the hotel chain can regain its competitive edge and secure its position as a leader in the luxury/business hotels category.
 
 This is not just a project; it's a success story in the making, driven by data and innovation.
+
+# Project Evaluation
+![image](https://github.com/Mohammad-juber/Business-Insights-Dashbo/assets/105763505/3e88cd35-d061-4b4c-9da2-23efb21e7d9c)
+
+# Booking Success Analysis
+![image](https://github.com/Mohammad-juber/Business-Insights-Dashbo/assets/105763505/cc6aeae6-b25c-4bf5-9643-2b9427992da0)
+
+# Booking Efficiency Analysis
+![image](https://github.com/Mohammad-juber/Business-Insights-Dashbo/assets/105763505/b0152b9e-a050-4e6b-9294-a01a96715011)
+
+
+
+
