@@ -1,5 +1,5 @@
-# Business-Insights-Dashbo
-Business insights refer to the deep understanding and actionable information derived from analyzing various forms of business data. These insights enable companies to make informed decisions, optimize operations, identify opportunities, and mitigate risks. They often stem from the analysis of financial metrics, customer behavior, market trends.
+# Hospitality Domain
+[Go to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U0ODg4MzItMTgzNy00MWQ3LWJhOWUtNGQ5MDJhNDhmZTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that threatened its market share. As an aspiring Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
 
